@@ -1,0 +1,10 @@
+,Datset Link,Average MSE Value Achieved,Lines of Data,Runtime (s),Performance Visualized
+Wine Quality Dataset ,https://www.kaggle.com/datasets/yasserh/wine-quality-dataset,0.01015223412,4899,14,
+New York Stock Exchange,www.kaggle.com/datasets/dgawlik/nyse,0.007803254763,1781,60,
+Titanic Dataset,www.kaggle.com/datasets/yasserh/titanic-dataset,0.0005054275006,891,36,
+Car Price Dataset,www.kaggle.com/datasets/hellbuoy/car-price-prediction,0.8688793749,205,6,
+Country_GDP,https://www.kaggle.com/datasets/ppb00x/country-gdp?rvi=1,0.6518241759,212,50,
+Possum Regression,https://www.kaggle.com/datasets/abrambeyer/openintro-possum?rvi=1,0.005507687195,104,20,
+India's Population: Simple Linear Regression,https://www.kaggle.com/datasets/akhileshthite/indias-population-simple-linear-regression?rvi=1,0.0004085064663,30,31,
+Asteroid Dataset,https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset,0.0000000020445969401733400000,958525,24,
+,Average MSE:,0.193135082856216,,,
